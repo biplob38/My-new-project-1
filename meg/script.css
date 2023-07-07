@@ -1,0 +1,21 @@
+.header{
+    /* background-color: aqua; */
+    height: 200px;
+    background-image: url(Travel.jpg);
+    background-repeat: no-repeat;
+    /* background-color:cornflowerblue; */
+    background-size:300px;
+}
+h2,h3{
+    font-size: larger;
+    font-style: italic;
+    text-align: justify;
+    text-decoration: underline black ;
+
+}
+.blog{
+
+    margin: 15px;
+    border:10px ivory;
+    
+}
